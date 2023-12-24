@@ -23,15 +23,6 @@ Experienced Backend Developer Team Lead with a passion for continual incremental
 ### Current Studies
 - Udemy courses for personal growth and development.
 
-### Secondary School Qualifications
-- Eaglesvale, Harare – 2002
-  - English Language: C
-  - Business Studies: C
-  - Geography: C
-  - Woodwork: C
-  - Integrated Science: D
-  - Technical Drawing: D
-
 ### Tertiary Qualifications
 - Pitman’s Commercial Numeracy – Eaglesvale, Harare – 2002
   - Level 1: First Class
@@ -106,6 +97,7 @@ Experienced Backend Developer Team Lead with a passion for continual incremental
 ## Skills
 
 - Node.js
+- Java EE
 - Grails
 - MySQL
 - Google Cloud
