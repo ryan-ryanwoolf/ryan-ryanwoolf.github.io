@@ -66,7 +66,7 @@ Experienced Backend Developer Team Lead with a passion for continual incremental
 - Developed stock control, project management, and purchasing systems.
 - Implemented systems for efficiency and accountability.
 
-*Reason for Leaving:* Company closed due to lack of business.
+*Reason for Leaving:* I wanted to pursue an opportunity to start my own software development company.
 
 ### Procurement Officer
 **Powerbars & Control CC (ISO 2008:9001)** (April 2013 - May 2014)
