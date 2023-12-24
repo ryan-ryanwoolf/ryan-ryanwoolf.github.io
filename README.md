@@ -23,6 +23,10 @@ Experienced Backend Developer Team Lead with a passion for continual incremental
 ### Current Studies
 - Udemy courses for personal growth and development.
 
+### Secondary School Qualifications
+- Eaglesvale, Harare – 2002
+  - Pass
+
 ### Tertiary Qualifications
 - Pitman’s Commercial Numeracy – Eaglesvale, Harare – 2002
   - Level 1: First Class
@@ -42,9 +46,9 @@ Experienced Backend Developer Team Lead with a passion for continual incremental
 **Infrasonic Consulting** (September 2017 - Present)
 - Designed, developed, and maintained backend systems for online platforms.
 - Led and mentored the backend development team.
-- Frameworks and skills: Node.js, Grails, MySQL, Google Cloud, GIT, Postman, Agile, REST, SOAP, AJAX.
+- Frameworks and skills: Node.js, Grails, Java EE, MySQL, Google Cloud, Azure, GIT, Postman, Agile, REST, SOAP, AJAX.
 
-*Reason for Leaving:* Lack of stability in the company.
+*Reason for Leaving:* I feel that it is time to leave now, I want experience in a larger team with strong technical knowledge. 
 
 *References:*
 - Michael (Front End Developer Team Lead): 078 141 2010
