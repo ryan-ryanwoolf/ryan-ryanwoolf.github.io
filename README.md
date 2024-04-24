@@ -40,7 +40,7 @@ Experienced Backend Developer Team Lead with a passion for continual incremental
 
 ---
 
-## Work Experience
+## Current Role
 
 ### Backend Developer Team Lead
 **Infrasonic Consulting** (September 2017 - Present)
@@ -51,50 +51,8 @@ Experienced Backend Developer Team Lead with a passion for continual incremental
 *Reason for Leaving:* I feel that it is time to leave now, I want experience in a larger team with strong technical knowledge. 
 
 *References:*
-- Michael (Front End Developer Team Lead): 078 141 2010
 - Timothy (Previous Senior Developer): +44 7506 597683
-
-### Founder | Developer
-**Royal Garment Software Development** (February 2017 - August 2017)
-- Founded a business focused on mobile app development, website development, and social media marketing.
-- Skills: Java, Firebase, Android Studio, Wix, Visual Studio, ASP.NET, Xamarin, Facebook Marketing.
-
-*Reason for Leaving:* Company not performing well, accepted a software development job offer.
-
-### Project Management and System Implementation
-**Hedo Group** (August 2015 - January 2017)
-- Developed stock control, project management, and purchasing systems.
-- Implemented systems for efficiency and accountability.
-
-*Reason for Leaving:* I wanted to pursue an opportunity to start my own software development company.
-
-### Procurement Officer
-**Powerbars & Control CC (ISO 2008:9001)** (April 2013 - May 2014)
-- Procurement responsibilities and ISO 9001 compliance.
-
-*Reason for Leaving:* Company closed; full staff retrenchment.
-
-### Caretaker
-**Montana Park Village** (July 2011 - April 2013)
-- Managed complex maintenance, security, and resident issues.
-
-*Reason for Leaving:* New job offer.
-
----
-
-## Education (Continued)
-
-- **Studying:** July 2010 to December 2013
-  - Bachelor of Arts (Health Sciences and Social Services) Applied Psychology for Professional Contexts – UNISA, Pretoria
-
----
-
-## Programmer and Assistant Operations Manager
-**A Markham & Company Zimbabwe** (October 2003 - June 2010)
-- Specialized in processing quantitative market research, retail audit, and AIDS research data.
-- Skills: Excel VBA, Classic ASP, ASP.NET, SQL Server, MS Access, HTML, JavaScript.
-
-*Reason for Leaving:* Political and economic chaos in Zimbabwe.
+- Michael (Front End Developer Team Lead): 078 141 2010
 
 ---
 
@@ -104,6 +62,7 @@ Experienced Backend Developer Team Lead with a passion for continual incremental
 - Java EE
 - Grails
 - MySQL
+- Microsoft Azure
 - Google Cloud
 - GIT
 - Postman
@@ -111,11 +70,18 @@ Experienced Backend Developer Team Lead with a passion for continual incremental
 - REST / SOAP / AJAX
 - SQL / HQL
 - Integration with external APIs
+- Clean Code Architecture
+- Solid Principles
 
+---
+
+## Demonstration Projects
+
+- NodeJS / Typescript project with REST API authentication module authenticating through AWS cognito, secure graphql endpoints for adding, updating, reading, and listing products. 
 ---
 
 ## Contact
 
-- **Email:** ryanwoolf@gmail.com
+- **Email:** ryan@ryanwoolf.com
 - **Phone:** 073 107 1255
 - **GitHub:** [github.com/ryanwoolf](https://github.com/ryanwoolf)
