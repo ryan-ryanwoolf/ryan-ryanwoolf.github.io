@@ -77,7 +77,9 @@ Experienced Backend Developer Team Lead with a passion for continual incremental
 
 ## Demonstration Projects
 
-- NodeJS / Typescript project with REST API authentication module authenticating through AWS cognito, secure graphql endpoints for adding, updating, reading, and listing products. 
+- NodeJS / Typescript project with REST API authentication module authenticating through AWS cognito, secure graphql endpoints for adding, updating, reading, and listing products. - https://github.com/ryan-ryanwoolf/manufacturing-manager-nodejs-backend/
+- Java Spring Rest API designed to convert measurements from one unit to another, for example converting a temperature from kelvins to degrees celsius. https://github.com/ryan-ryanwoolf/measurement-converter-spring-backend/
+  
 ---
 
 ## Contact
