@@ -46,7 +46,7 @@ Experienced Backend Developer Team Lead with a passion for continual incremental
 **Infrasonic Consulting** (September 2017 - Present)
 - Designed, developed, and maintained backend systems for online platforms.
 - Led and mentored the backend development team.
-- Frameworks and skills: Node.js / Typescript, Grails, Java EE, Spring, MySQL, Google Cloud, Azure, GIT, Postman, Agile, REST,SOAP.
+- Frameworks and skills: Node.js / Typescript, Grails, Java EE, Spring, MySQL, Google Cloud, Azure, GIT, Postman, Agile, REST,SOAP, Azure Service Bus, Google Pub Sub.
 
 *Reason for Leaving:* I feel that it is time to leave now, I want experience in a larger team with strong technical knowledge. 
 
@@ -69,6 +69,7 @@ Experienced Backend Developer Team Lead with a passion for continual incremental
 - Agile Project Management
 - REST / SOAP / AJAX
 - SQL / HQL
+- Message Queues (Azure Service Bus, Google Pub/Sub)
 - Integration with external APIs
 - Clean Code Architecture
 - Solid Principles
